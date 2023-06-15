@@ -15,7 +15,7 @@
 - [**OpenVPN**](https://openvpn.net/): OpenVPN is an open source VPN daemon.[[github](https://github.com/OpenVPN/openvpn)]
 - [**Orbot**](https://guardianproject.info/apps/org.torproject.android/): Orbot is a free proxy app that provides anonymity on the Internet for users of the Android and iOS operating systems. which could form the basis for a decentralized VPN. [[github](https://github.com/guardianproject/orbot)]
 - [**ZeroTier**](https://www.zerotier.com/): Directly Connecting the World's Devices with Universal Software Defined Networking [[github](https://github.com/zerotier)]
-- [**GNUnet**](https://www.gnunet.org/en/): GNUnet is a software framework for decentralized, peer-to-peer networking and an official GNU package. [[github]https://git.gnunet.org/gnunet.git/)]
+- [**GNUnet**](https://www.gnunet.org/en/): GNUnet is a software framework for decentralized, peer-to-peer networking and an official GNU package. [[github](https://git.gnunet.org/gnunet.git/)]
 - [**RetroShare**](https://retroshare.cc/): Retroshare is a free and open-source peer-to-peer communication and file sharing app based on a friend-to-friend network built by GNU Privacy Guard. [[github](https://github.com/RetroShare)]
 
 ## Peer-to-peer networking libraries
