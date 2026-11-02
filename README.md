@@ -8,6 +8,7 @@
 - [**Orchid**](https://www.orchid.com/): VPN, Personal Firewall [[github](https://github.com/sentinel-official/sentinel)]
 - [**Deeper Network**](https://www.deeper.network/): Web 3.0 infrastructure of the users, by the users, for the users 
 - [**Helium**](https://www.helium.com/): The world's first peer to peer wireless network [[github](https://github.com/helium)] 
+- [**SailNet**](https://www.sailnet.space): A privacy network paid in XNO — run a relay and earn XNO per megabyte, or route traffic over onion circuits. Android/desktop, Docker, Chrome and Firefox. [[github](https://github.com/dhyabi2/sailnet)]
 - [**VPN3.io**](https://www.hotspotvpn.io/): AI-Powered Decentralized VPN3
 
 ## Open Source Projects
